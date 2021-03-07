@@ -1,0 +1,41 @@
+{
+  "pages":[
+   "pages/home/home",
+   "pages/wordpage/wordpage",
+   "pages/list1/list1",
+   "pages/task-add/task-add",
+   "pages/task-list/task-list",
+   "pages/index/index"
+   
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#87CEFA",
+    "navigationBarTitleText": "翘楚的单词本",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list":[{
+      "pagePath": "pages/home/home",
+      "text": "首页",
+      "iconPath": "/images/home.jpg",
+      "selectedIconPath": "/images/home.jpg"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "任务指引",
+      "iconPath": "/images/task.jpg",
+      "selectedIconPath": "/images/task.jpg"
+    }
+  
+  
+  
+  
+  
+  
+  
+  ]
+  }
+}
